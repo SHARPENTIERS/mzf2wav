@@ -1,10 +1,7 @@
 MZF2WAV
 =======
 
-This document covers software to transfer an MZF image to a cassette by
-using a WAV file as an intermediate.
+**WARNING: when entering in your file name you do not need to include the .mzf part**
+Fork of jfljaros's mzf2wav by TextAdventureKing.
+This contains the Windows pre-compiled binary and a modified batch file that is easier to use
 
-Please see ReadTheDocs_ for the latest documentation.
-
-
-.. _ReadTheDocs: https://mzf2wav.readthedocs.io/en/latest/index.html
